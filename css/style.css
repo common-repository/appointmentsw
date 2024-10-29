@@ -1,0 +1,39 @@
+.wrp-variation-field {
+	float:left;
+	margin-right: 15px;
+}
+
+/* Admin frontend page */
+/*
+.sb-user-item {
+	display: inline-block;
+	float: left;
+	text-align: center;
+	border:solid 2px #ccc;
+	margin:2px;
+	padding:5px;
+	width:110px;
+	overflow-x:hidden;
+}
+*/
+
+.sb-user-selected {
+	border:solid 4px #0c61b4 !important;
+}
+
+.sb-user-item {
+	margin:10px; 
+	padding:5px; 
+	border: 2px solid #ccc; 
+	border-radius:10px;
+}
+
+.sb-user-item p {
+	margin-bottom: 5px;
+	height: 40px;
+	overflow-y: hidden;
+}
+
+.sb-table p {
+	margin-bottom: 5px;
+}

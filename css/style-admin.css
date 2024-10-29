@@ -1,0 +1,14 @@
+.theChampLogin {
+	width: 100% !important;
+}
+ul.the_champ_login_ul li {
+	width: 100% !important;
+}
+
+.registration-button {
+	background: #0085ba none repeat scroll 0 0 !important;
+	border-color: #0073aa #006799 #006799 #006799 !important;
+}
+.registration-button a {
+	color:white !important;
+}
